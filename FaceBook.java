@@ -25,6 +25,8 @@ public class FaceBook {
 		public void closeBrowser(){
 			System.out.println("Facebook SignUp Successful");
 			System.out.println("Facebook SignUp Successful");
+			System.out.println("Facebook SignUp Successful");
+			System.out.println("Facebook SignUp Successful");
 			driver.close();
 		}
 		
